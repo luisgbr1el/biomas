@@ -2,6 +2,7 @@
 Uma package npm para extrair informações sobre os biomas brasileiros. 🇧🇷 <br>
 Fonte: IBGE
 
+<a href="https://nodei.co/npm/biomas/"><img src="https://nodei.co/npm/biomas.png"></a>
 
 # 🚩 Instalação
 
