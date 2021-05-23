@@ -1,7 +1,7 @@
 {
   "name": "biomas",
-  "version": "1.0.0",
-  "description": "Uma package para extrair informações sobre os biomas brasileiros.",
+  "version": "1.1.1",
+  "description": "Uma package para extrair informações sobre os biomas brasileiros. 🇧🇷",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
