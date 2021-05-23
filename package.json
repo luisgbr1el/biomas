@@ -1,0 +1,26 @@
+{
+  "name": "biomas",
+  "version": "1.0.0",
+  "description": "Uma package para extrair informações sobre os biomas brasileiros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisgbr1el/biomas"
+  },
+  "keywords": [
+    "bioma",
+    "biomas",
+    "brasil",
+    "brazil",
+    "geografia"
+  ],
+  "author": "luisgbr1el",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisgbr1el/biomas/issues"
+  },
+  "homepage": "https://github.com/luisgbr1el/biomas#readme"
+}
