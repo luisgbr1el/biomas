@@ -4,8 +4,10 @@ Fonte: IBGE
 <br>
 <br>
 <a href="https://nodei.co/npm/biomas/"><img src="https://nodei.co/npm/biomas.png"></a> <br>
+<img alt="GitHub" src="https://img.shields.io/github/forks/luisgbr1el/biomas">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/luisgbr1el/biomas"></a>
+<img src="https://img.shields.io/github/stars/luisgbr1el/biomas">
 <a href="https://github.com/luisgbr1el/biomas/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/luisgbr1el/biomas"></a> 
-<a href="https://github.com/luisgbr1el/biomas"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/luisgbr1el/biomas"></a>
 
 # 🚩 Instalação
 
